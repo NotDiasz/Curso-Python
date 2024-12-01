@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 
-# Curso de Python 📚 #Este repositório contém todos os códigos, anotações e exercícios que estou desenvolvendo durante meu curso de Python. O objetivo é construir uma base sólida nessa linguagem, cobrindo desde fundamentos até conceitos mais avançados e aplicações práticas.
-=======
 # Curso de Python 📚
 
 Este repositório contém todos os códigos, anotações e exercícios que estou desenvolvendo durante meu curso de Python. O objetivo é construir uma base sólida nessa linguagem, cobrindo desde fundamentos até conceitos mais avançados e aplicações práticas.
->>>>>>> 93ae982f0003265409d4663fd5d6c06bd5636869
 
 ## Conteúdos abordados
 - **Sintaxe básica**: Tipos de dados, operadores e estruturas de controle (if, else, elif, loops).
@@ -16,10 +12,6 @@ Este repositório contém todos os códigos, anotações e exercícios que estou
 - **Orientação a Objetos**: Conceitos de classes, objetos, herança e encapsulamento.
 - **Tratamento de erros**: Como lidar com exceções para tornar o código mais robusto.
 
-<<<<<<< HEAD
-## Objetivo Registrar minha evolução no aprendizado do Python e criar um repositório de referência para consultas futuras. Sinta-se à vontade para explorar o conteúdo e colaborar!
-=======
 ## Objetivo
 Registrar minha evolução no aprendizado do Python e criar um repositório de referência para consultas futuras. Sinta-se à vontade para explorar o conteúdo e colaborar!
->>>>>>> 93ae982f0003265409d4663fd5d6c06bd5636869
 
