@@ -10,7 +10,7 @@ For in em Python
 
 
 #pular o numero de 2 em 2 começa de 0 a 10 e pula de 2 em 2
-    #for numero in range(0,10,1):
+    #for numero in range(0,10,2):
     #print(numero)
 
 #Aqui ele decrementa
