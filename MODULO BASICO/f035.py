@@ -38,4 +38,34 @@ Enumerate - Enumerar elementos da lista #list / objt iteraveis
 #for valor in lista2:
     #print(valor.strip().capitalize())#Deixa a primeira letra maiuscula o capitalize e o strip ta tirando os espaços do incio e fim e se usasse upper deixaria tudo maiusculo
 
-  #VOCE PAROU NO MINUTO 12:30 DA AULA CONTNUE DEPOIS
+#Aqui eu transformei uma frase em lista separa por espaço
+#string = 'O Brasil e Penta'
+#lista =  string.split(' ')  
+#print(lista)
+
+#string = 'O Brasil e Penta'
+#lista =  string.split(' ')  
+#for indice, valor in enumerate(lista): #Aqui eu percorro a lista mostrando o indice da lista e o que ta atribuido a indice
+#    print(indice , valor)
+
+#lista = [
+#    [1,2],
+#    [3,4],
+#    [5,6],
+#]
+#for v in lista:
+#    print(v[0] , v[1])
+
+#lista = [
+#    [0,'Luiz'],
+#    [1,'Joao'],
+#    [2,'Miguel'],
+#]
+#
+#for indice , nome in lista:
+#    print(indice, nome)
+
+lista = [ 'Luiz' , 'Joao', 'Miguel']
+
+for indice , nome in enumerate(lista):
+    print(indice, nome)
